@@ -1,7 +1,8 @@
 # Site settings
 title: Gago
 description: 'Paco Gago'
-url: 'pacogago.github.io'
+url: 'pacogago.github.io/'
+baseurl: '/'
 
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -20,7 +21,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-        layout: 'post'
+        layout: 'posts'
 
 # Build settings
 destination: _site
