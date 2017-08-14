@@ -1,7 +1,7 @@
 # Site settings
 title: Gago
 description: 'Paco Gago'
-url: 'pacogago.github.io'
+url: 'https://pacogago.github.io'
 baseurl: '/'
 
 # google_analytics: 'UA-XXXXXX-X'
@@ -11,9 +11,9 @@ author:
   name: 'Paco Gago'
   email: contacto@franciscogago.com
   twitter_username: pacogago
-  #facebook_username: joshgerdes
+  facebook_username: pacogago
   github_username:  PacoGago
-  #linkedin_username:  joshgerdes
+  linkedin_username:  pacogago
 
 defaults:
   -
@@ -21,7 +21,7 @@ defaults:
       path: ''
       type: 'posts'
     values:
-        layout: 'posts'
+        layout: 'post'
 
 # Build settings
 destination: _site
@@ -37,4 +37,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
