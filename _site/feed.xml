@@ -3,10 +3,10 @@
   <channel>
     <title>Gago</title>
     <description>Paco Gago</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Aug 2017 20:32:38 +0200</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 20:32:38 +0200</lastBuildDate>
+    <link>https://pacogago.github.io//</link>
+    <atom:link href="https://pacogago.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 15 Aug 2017 20:39:18 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2017 20:39:18 +0200</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 16:04:23 +0100</pubDate>
-        <link>http://localhost:4000//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/welcome-to-jekyll/</guid>
+        <link>https://pacogago.github.io//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://pacogago.github.io//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
