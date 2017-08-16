@@ -4,7 +4,7 @@ description: 'Blog'
 url: 'https://github.com/PacoGago/jekyll-uno'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'gagoblog'
+disqus_shortname: 'paco_gago'
 avatarurl: 'https://raw.githubusercontent.com/PacoGago/pacogago.github.io/master/images/profile.jpg'
 # youtubeurl:  'https://www.youtube.com/channel/UCHnN13dHhdYq8nx5HEXmMxg'
 
