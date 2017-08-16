@@ -1,8 +1,8 @@
 # Site settings
 title: Gago
-description: 'Paco Gago'
-url: 'https://pacogago.github.io/'
-baseurl: 
+description: "Paco Gago"
+url: "https://pacogago.github.io"
+baseurl: ""
 
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
