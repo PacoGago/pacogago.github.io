@@ -1,20 +1,20 @@
 # Site settings
-title: Hoang Dang
-description: 'A DevOps Craftsman'
+title: Gago
+description: 'Blog'
 url: 'https://github.com/PacoGago/jekyll-uno'
 baseurl:
 # google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'theroot'
-gravatarurl: 'https://www.gravatar.com/avatar/2a3cb6f253bbd6e6c2c60a963cd5616b'
-youtubeurl:  'https://www.youtube.com/channel/UCHnN13dHhdYq8nx5HEXmMxg'
+disqus_shortname: 'gago'
+avatarurl: 'https://www.gravatar.com/avatar/2a3cb6f253bbd6e6c2c60a963cd5616b'
+# youtubeurl:  'https://www.youtube.com/channel/UCHnN13dHhdYq8nx5HEXmMxg'
 
 author:
-  name: 'Hoang Dang'
-  email: hoangdangninh[at]gmail[dot]com
-  twitter_username: hoangdangninh
-  facebook_username: hdnroot
-  github_username: hoangdangninh
-  linkedin_username:  hdroot
+  name: 'Francisco Gago'
+  email: contacto[at]franciscogago[dot]com
+  twitter_username: pacogago
+  facebook_username: pacogago
+  github_username: pacogago
+  linkedin_username:  pacogag
 
 defaults:
   -

@@ -1,8 +1,0 @@
----
-title:  "Talks"
-date:   2017-08-04 23:15:00
----
-
-1. [A Basic Git flow in Gitlab][1]{:target="_blank"}
-
-[1]: {{ site.baseurl }}/ppt/official/p1.html
