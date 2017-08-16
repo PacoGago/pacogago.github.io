@@ -1,19 +1,20 @@
 # Site settings
-title: Gago
-description: 'Paco Gago'
+title: Hoang Dang
+description: 'A DevOps Craftsman'
 url: 'https://github.com/PacoGago/jekyll-uno'
 baseurl:
-
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'theroot'
+gravatarurl: 'https://www.gravatar.com/avatar/2a3cb6f253bbd6e6c2c60a963cd5616b'
+youtubeurl:  'https://www.youtube.com/channel/UCHnN13dHhdYq8nx5HEXmMxg'
 
 author:
-  name: 'Paco Gago'
-  email: contacto@franciscogago.com
-  twitter_username: pacogago
-  facebook_username: pacogago
-  github_username:  PacoGago
-  linkedin_username:  pacogago
+  name: 'Hoang Dang'
+  email: hoangdangninh[at]gmail[dot]com
+  twitter_username: hoangdangninh
+  facebook_username: hdnroot
+  github_username: hoangdangninh
+  linkedin_username:  hdroot
 
 defaults:
   -
@@ -36,5 +37,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate', 'github-pages']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
