@@ -6,15 +6,15 @@ baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'https-pacogago-github-io'
 avatarurl: 'https://raw.githubusercontent.com/PacoGago/pacogago.github.io/master/images/profile.jpg'
-# youtubeurl:  'https://www.youtube.com/channel/UCHnN13dHhdYq8nx5HEXmMxg'
+# youtubeurl: 
 
 author:
   name: 'Francisco Gago'
   email: contacto[at]franciscogago[dot]com
   twitter_username: pacogago
-  facebook_username: pacogago
+  #facebook_username:
   github_username: pacogago
-  linkedin_username:  pacogag
+  linkedin_username: francisco-gago-villanueva-13477b70
 
 defaults:
   -
