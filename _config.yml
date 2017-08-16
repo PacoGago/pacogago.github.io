@@ -1,16 +1,8 @@
 # Site settings
-<<<<<<< HEAD
 title: Hoang Dang
 description: 'A DevOps Craftsman'
 url: 'https://github.com/PacoGago/jekyll-uno'
 baseurl:
-=======
-title: Gago
-description: "Paco Gago"
-url: "https://pacogago.github.io"
-baseurl: ""
-
->>>>>>> c1bba31ba3f1930aba9731d9905054a8feedd581
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'theroot'
 gravatarurl: 'https://www.gravatar.com/avatar/2a3cb6f253bbd6e6c2c60a963cd5616b'
