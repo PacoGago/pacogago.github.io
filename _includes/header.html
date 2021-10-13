@@ -73,6 +73,16 @@
               </li>
             {% endif %}-->
 
+          {% if site.author.cv %}
+
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Curriculum {{ site.author.cv }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">CV</span>
+                </a>
+              </li>
+            {% endif %}
+
             <!-- RSS -->
             <li class="navigation__item">
               <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
