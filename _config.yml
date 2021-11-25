@@ -1,41 +1,22 @@
-# Site settings
-title: Gago
-description: 'Blog'
-url: 'https://github.com/PacoGago/jekyll-uno'
-baseurl:
-# google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'https-pacogago-github-io'
-avatarurl: 'https://raw.githubusercontent.com/PacoGago/pacogago.github.io/master/images/profile.jpg'
-# youtubeurl: 
+# Setup
+title:               Gago
+tagline:             'Personal Blog'
+description:         'Another software developer blog'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
+# About/contact
 author:
-  name: 'Francisco Gago'
-  email: contacto[at]franciscogago[dot]com
-  twitter_username: pacogago
-  #facebook_username:
-  github_username: pacogago
-  linkedin_username: francisco-gago-villanueva-13477b70
+  name:              Gago
+  url:               https://twitter.com/pacogago
+  email:             contacot@franciscogago.com
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# Gems
+plugins:
+  - jekyll-paginate
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
