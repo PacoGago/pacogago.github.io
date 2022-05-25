@@ -1,7 +1,7 @@
 # Setup
 title:               Gago
-tagline:             'Personal Blog'
-description:         'Another software developer blog'
+tagline:             'Software Engineer'
+description:         'A personal blog'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
